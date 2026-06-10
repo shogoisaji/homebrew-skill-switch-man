@@ -1,4 +1,4 @@
-class Skillswitchman < Formula
+class SkillSwitchMan < Formula
   desc "TUI for managing agent skills for Claude Code, Codex, and OpenCode"
   homepage "https://github.com/shogoisaji/skill-switch-man"
   url "https://github.com/shogoisaji/skill-switch-man/releases/download/v0.2.0/skillswitchman-macos.tar.gz"
