@@ -1,9 +1,9 @@
 class SkillSwitchMan < Formula
   desc "TUI for managing agent skills for Claude Code, Codex, and OpenCode"
   homepage "https://github.com/shogoisaji/skill-switch-man"
-  url "https://github.com/shogoisaji/skill-switch-man/releases/download/v0.3.3/skillswitchman-macos.tar.gz"
-  version "0.3.3"
-  sha256 "4e0beadf7063b03ee800f81711b061da49487b742e91b2f662403bc59e753160"
+  url "https://github.com/shogoisaji/skill-switch-man/releases/download/v0.3.4/skillswitchman-macos.tar.gz"
+  version "0.3.4"
+  sha256 "46e8868dd2c1bd4d1261de7574ba631ac87c97a7369ea5ae51c591bbbf358bcc"
   license "MIT"
 
   def install
